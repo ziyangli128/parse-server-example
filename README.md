@@ -73,7 +73,7 @@ A detailed tutorial is available here:
 
 #### With the Scalingo button
 
-[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy)
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy) [![Greenkeeper badge](https://badges.greenkeeper.io/parse-community/parse-server-example.svg)](https://greenkeeper.io/)
 
 #### Without it
 
